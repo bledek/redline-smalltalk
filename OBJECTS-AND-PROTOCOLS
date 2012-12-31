@@ -89,13 +89,13 @@ Collection
   Dictionary
   IdentityDictionary
 
- Stream
-  PositionableStream
-   ReadStream
-   WriteStream
-    ReadWriteStream
-     ExternalStream
-      FileStream
+ Stream -- bledek|Brian Brown
+  PositionableStream -- bledek|Brian Brown
+   ReadStream -- bledek|Brian Brown
+   WriteStream -- bledek|Brian Brown
+    ReadWriteStream -- bledek|Brian Brown
+     ExternalStream -- bledek|Brian Brown
+      FileStream -- bledek|Brian Brown
  Random
  
  File -- brweber2|Bryan Weber
